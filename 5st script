@@ -1,0 +1,26 @@
+Welcome to Cloud Shell! Type "help" to get sta rted.
+Your Cloud Platform project in this session is set to eighth-study-436814-a3.
+Use "gcloud config set project [PROJECT_ID]" t o change to a different project.
+vanniadhiyaapsarini@cloudshell:
+(eighth-study
+vanniadhiyaapsarini@cloudshell:
+(eighth-study
+-436814-a3)$ nano latihan4.sh
+vanniadhiyaapsarini@cloudshell:
+(eighth-study
+-436814-a3)$ cat latihan4.sh
+#!/bin/bash
+echo "script untuk menerima input, penjumlahan dan perkalian"
+echo
+echo "13:"
+read x
+echo "7:"
+read y
+jmlh` expr tx + ty
+kali=`expr tx * ty
+echo hasil penjumlahan txty jmlh"
+* echo "hasil perkalian tx ty kali"
+vanniadhiyaapsarini@cloudshell:
+(eighth-study
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$
