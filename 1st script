@@ -1,0 +1,31 @@
+Your Cloud Platform project in this session is set to eighth-study-436814-a3.
+Use "gcloud config set project [PROJECT_ID]" t o change to a different project.
+vanniadhiyaapsarini@cloudshell: (eighth-study -436814-a3)$ pwd
+/home/vanniadhiyaapsarini
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ nano hello.sh
+vanniadhiyaapsarini@cloudshell: (eighth-study -436814-a3)$ sh hello.
+sh: hello. No such file or directory
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ sh hello
+sh: hello. No such file or directory
+vanniadhiyaapsarini@cloudshell: (eighth-study -436814-a3)$ sh hello.
+sh: hello. No such file or directory
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ sh hello.
+sh: hello. No such file or directory
+vanniadhiyaapsarini@cloudshell: (eighth-study -436814-a3)$ sh hello.
+sh: hello. No such file or directory
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ sh hello.sh
+hello world!
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ ./hello.sh
+-bash: /hello.sh: Permission denied
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ chmod +x hello.sh
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$/hello.sh
+vanniadhiyaapsarini@cloudshell: (eighth-study
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$
