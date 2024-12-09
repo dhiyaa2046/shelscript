@@ -1,0 +1,19 @@
+Welcome to Cloud Shell! Type "help" to get sta rted.
+Your Cloud Platform project in this session is set to eighth-study-436814-a3.
+Use "gcloud config set project [PROJECT_ID]" t o change to a different project.
+vanniadhiyaapsarini@cloudshell:
+(eighth-study
+-436814-a3)$ nano latihan2.sh
+vanniadhiyaapsarini@cloudshell:
+(eighth-study
+-436814-a3)$ cat latihan2.sh
+#!/bin/bash
+nama="vannia dhiya"
+nim=2402081
+saya_login_sebagai_siapa='vanni'
+echo "isi variabel pertama: "vanni
+echo "isi variabel kedua: "2402081
+echo "isi variabel ketiga "saya_login_sebagai
+_siapa='vanni'
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$
