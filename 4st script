@@ -1,0 +1,20 @@
+Welcome to Cloud Shell! Type "help" to get sta rted.
+set to eighth-study-436814-a3.
+Use "gcloud config set project [PROJECT_ID]" t
+o change to a different project.
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ nano latihan3.sh
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$ cat latihan3.sh
+#!/bin/bash
+echo "script untuk menerima input"
+echo
+echo "vannia dhiya apsarini:"
+read Nama
+echo
+echo "nama saya adalah "nama
+echo "menyanyi:"
+read hobi
+echo "hobi saya adalah: "hobi
+vanniadhiyaapsarini@cloudshell: (eighth-study
+-436814-a3)$
